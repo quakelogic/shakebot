@@ -42,13 +42,14 @@ The **Precursor** is a single-axis shake table designed for earthquake simulatio
 ---
 
 ## 📦 Components and Dimensions
-
 - **Main Components**:
-  - Actuator: Stepper Motor
-  - Platform Material: Aluminum Plate
+  - 1x Shake Table
+  - 1x Control Box
 - **Included Accessories**:
   - 1x Micro USB Cable
   - 4x Table Mounting Brackets
+  - 1x IEC Power Cable
+  - 1x Ethernet Cable
 - **Dimensions**:
   - Table: 81 x 31 x 12 cm
   - Control Box: 33 x 26 x 15 cm
