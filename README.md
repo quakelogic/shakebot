@@ -78,6 +78,6 @@ The Precursor shake table is intended for **educational and research purposes on
 
 ## 🔗 Resources
 - [Precursor Datasheet](./docs/datasheets/)
-- [User Manual](#) (Coming soon)
+- [User Manual](./docs/manuals/)
 - [Installation Guide Video](#) (Coming soon)
 - [Operation Instruction Video](#) (Coming soon)

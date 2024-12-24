@@ -4,5 +4,4 @@ This page contains the datasheets for the **Seismove Precursor**, a single-axis 
 
 ## Model-Specific Datasheets
 
-- For model numbers **0001–0003**, please refer to **Precursor_datasheet_v1**.
-- For model numbers **0004–0010**, please refer to **Precursor_datasheet_v2** (coming soon).
+- For model numbers **SM-P-001**, **SM-P-002**, **SM-P-003**, please refer to **Precursor_datasheet_v1**
