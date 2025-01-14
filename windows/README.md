@@ -9,9 +9,9 @@ This page contains the Seismove software installation for Windows. Below are the
 ### **Latest Version**
 The latest versions of the software are available at the links below:
 
-[**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/1Dxil44dwPJ5C2E1QXPuTR0aO_gEyXH9G/view?usp=sharing) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
+[**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/12ZEEdZTbF1MivwUT9SYhUZ-ssyzNWag1/view?usp=sharing) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
 
-[**Download Seismove Precursor Client v2.1 for SM-P1**](https://drive.google.com/file/d/1dl78VcDgHbStDkgyM3bcrmBQ4Pub_bl0/view?usp=sharing)
+[**Download Seismove Precursor Client v2.1 for SM-P1**](https://drive.google.com/file/d/1ygR2VIrUDgY6RVm-91C7ZWoXKaMk1oJD/view?usp=drive_link)
 
 [**Download Seismove Firmware Upload**](https://drive.google.com/file/d/1bsUqGF1OkCteqnC--H_oh5QIzjwlnOOs/view?usp=sharing)
 
