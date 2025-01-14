@@ -7,7 +7,7 @@ This page contains the Seismove software installation for Ubuntu. Below are the 
 ## **Ubuntu Installation**
 
 ### **Latest Version**
-The latest version of the software is available at the link below:
+The latest version of the software (Seismove Precursor Client v1.0 and Seismove Firmware Uploader) is available at the link below:
 
 [**Download Latest Version**](https://drive.google.com/file/d/1YVHGh6kM5qg0PiBkt6WowRSpWLULQYP6/view?usp=sharing)
 

@@ -7,9 +7,12 @@ This page contains the Seismove software installation for MacOS. Below are the d
 ## **MacOS Installation**
 
 ### **Latest Version**
-The latest version of the software is available at the link below:
+The latest versions of the software (Seismove Precusor Client v2.1 and Seismomve Firmware Uploader) are available at the links below:
 
-[**Download Latest Version**](https://drive.google.com/file/d/1xdOiSlr3Xd5wkNQYkWvCDOi5m24_Eu8M/view?usp=drive_link)
+[**Download Lastest Version for SM-P**](https://drive.google.com/file/d/12ZEEdZTbF1MivwUT9SYhUZ-ssyzNWag1/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
+
+[**Download Latest Version for SM-P1**](https://drive.google.com/file/d/1ygR2VIrUDgY6RVm-91C7ZWoXKaMk1oJD/view?usp=drive_link)
+
 
 1. Click the link to download the `.dmg` file.
 2. Double-click the downloaded `.dmg` file to mount it.
@@ -17,7 +20,7 @@ The latest version of the software is available at the link below:
 4. Launch the application from **Applications** or via Spotlight.
 
 ### **Archived Versions**
-Previous versions will be made available in the future.
+[**Download Seismove Precursor Client v1.0 for SM-P**](https://drive.google.com/file/d/1xdOiSlr3Xd5wkNQYkWvCDOi5m24_Eu8M/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
 
 ---
 
@@ -30,7 +33,7 @@ Previous versions will be made available in the future.
 ---
 
 ## **System Requirements**
-- macOS 10.14 (Mojave) or later
+- macOS 15.1 (Sequoia) or later
 - At least 500 MB of free disk space
 - Apple Silicon 
 
