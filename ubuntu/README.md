@@ -6,6 +6,8 @@ This page contains the Seismove software installation for Ubuntu. Below are the 
 
 ## **Ubuntu Installation**
 
+The firmware uploader software requires the Arduino CLI as a dependency. For installation instructions, please refer to [arduino_cli installation](../firmware/arduino_cli.md).
+
 ### **Latest Version**
 The latest versions of the software are available at the links below:
 
