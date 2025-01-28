@@ -7,11 +7,13 @@ This page contains the Seismove software installation for MacOS. Below are the d
 ## **MacOS Installation**
 
 ### **Latest Version**
-The latest versions of the software (Seismove Precusor Client v2.1 and Seismomve Firmware Uploader) are available at the links below:
+The latest versions of the software are available at the links below:
 
-[**Download Lastest Version for SM-P**](https://drive.google.com/file/d/12ZEEdZTbF1MivwUT9SYhUZ-ssyzNWag1/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
+[**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/1ZeZnG1IUBe5QreDPK90shnLRGYc2Yl6k/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
 
-[**Download Latest Version for SM-P1**](https://drive.google.com/file/d/1ygR2VIrUDgY6RVm-91C7ZWoXKaMk1oJD/view?usp=drive_link)
+[**Download Seismove Precursor Client v2.1 for SM-P1**](https://drive.google.com/file/d/1fte7tGbulg5jp-nD1VhBAfQGkDf2ESHW/view?usp=drive_link)
+
+[**Download Seismove Firmware Upload**](https://drive.google.com/file/d/1p1ZJcFhIBpIN-Sx4WEoaUbdA0PVmkLQe/view?usp=drive_link)
 
 
 1. Click the link to download the `.dmg` file.

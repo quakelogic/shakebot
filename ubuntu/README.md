@@ -7,9 +7,13 @@ This page contains the Seismove software installation for Ubuntu. Below are the 
 ## **Ubuntu Installation**
 
 ### **Latest Version**
-The latest version of the software (Seismove Precursor Client v1.0 and Seismove Firmware Uploader) is available at the link below:
+The latest versions of the software are available at the links below:
 
-[**Download Latest Version**](https://drive.google.com/file/d/1YVHGh6kM5qg0PiBkt6WowRSpWLULQYP6/view?usp=sharing)
+[**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/116nsnRJIjpLF0QwRIEJBdZ8S0YjxtgOj/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
+
+[**Download Seismove Precursor Client v2.1 for SM-P1**](https://drive.google.com/file/d/1GNjNS3VP-dXRfQyzm-JNcbQwCE6ZbYSk/view?usp=drive_link)
+
+[**Download Seismove Firmware Upload**](https://drive.google.com/file/d/1UQDqaFqVX24UbVUUWW4tEsIY_WX4w3uw/view?usp=drive_link)
 
 1. Click the link to download the `.tar.gz` file.
 2. Open a terminal and navigate to the directory containing the downloaded `.tar.gz` file.
