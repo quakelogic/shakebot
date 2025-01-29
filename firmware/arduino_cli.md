@@ -32,7 +32,7 @@ The following instructions guide you through the installation of Arduino CLI and
 ### Windows 11
 1. Open the Start Menu and search for "Edit the system environment variables."
 2. Select "Edit the system environment variables".
-3. In the "Advanced" tap, click "Environment Variables".
+3. In the "Advanced" tab, click "Environment Variables".
 4. Under User Variables, find and select the Path variable, then click Edit.
 5. Add the path to the Arduino CLI executable (e.g., C:\ArduinoCLI).
 6. Click OK to save changes and restart any open command prompt windows.
