@@ -1,6 +1,7 @@
 # **Seismove Firmware**
 
 ### **Latest Version**
+[**Download Firmware v2.2 for SM-P2**](https://drive.google.com/file/d/1LPQQ5Wzt2EpwZkqsG5PG9PSHB7lGb45Q/view?usp=sharing)  
 [**Download Firmware v2.1 for SM-P and SM-P1**](https://drive.google.com/file/d/1OScBxk76upVwl9rdPRIbRgwiqVSksB3V/view?usp=drive_link)
 
 

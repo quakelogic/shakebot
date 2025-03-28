@@ -11,6 +11,8 @@ The firmware uploader software requires the Arduino CLI as a dependency. For ins
 ### **Latest Version**
 The latest versions of the software are available at the links below:
 
+[**Download Seismove Precursor Client v2.2 for SM-P1 and SM-P2**](https://drive.google.com/file/d/17leJOwyTCAK5RaFmuBSq_JSA_3eP1ZGA/view?usp=drive_link) 
+
 [**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/1-Kp0fox5KZI_VY-ltkCFYDk-jZy0plKB/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
 
 [**Download Seismove Precursor Client v2.1 for SM-P1**](https://drive.google.com/file/d/1GNYWFyhHGIr3Trb7PDfZ9Ry_JLgAYu67/view?usp=drive_link)
