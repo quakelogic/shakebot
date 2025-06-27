@@ -13,7 +13,9 @@ The latest versions of the software are available at the links below:
 
 [**Download Seismove Precursor Client v2.1 for SM-P**](https://drive.google.com/file/d/1ZeZnG1IUBe5QreDPK90shnLRGYc2Yl6k/view?usp=drive_link) (**SM-P-001**, **SM-P-002**, **SM-P-003**)
 
-[**Download Seismove Precursor Client v2.1 for SM-P1**](https://drive.google.com/file/d/1fte7tGbulg5jp-nD1VhBAfQGkDf2ESHW/view?usp=drive_link)
+[**Download Seismove Precursor Client v2.1 for SM-P1 and SM-P2**](https://drive.google.com/file/d/1fte7tGbulg5jp-nD1VhBAfQGkDf2ESHW/view?usp=drive_link)
+
+[**Download Seismove Precursor Client v2 for SM-P3**](https://drive.google.com/file/d/17QxcixEA-530K3o6_wJkNnIpLRjuw0fb/view?usp=drive_link)
 
 [**Download Seismove Firmware Upload**](https://drive.google.com/file/d/1p1ZJcFhIBpIN-Sx4WEoaUbdA0PVmkLQe/view?usp=drive_link)
 
