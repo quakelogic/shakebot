@@ -10,4 +10,5 @@ This page contains the manuals for the **Seismove Precursor**, a single-axis sha
 
 ## Model-Specific Manuals
 
-- For model numbers **SM-P** (SM-P-001, SM-P-002, SM-P-003) and **SM-P1**, please refer to **Precursor_manual_v1**
+- For model numbers **SM-P** (SM-P-001, SM-P-002, SM-P-003) **SM-P1**, and **SM-P2**, please refer to **Precursor_manual_v1**
+- For model numbers **SM-P3** (400 x 400 mm bed), please refer to **Precursor_pro_manual_v1**
